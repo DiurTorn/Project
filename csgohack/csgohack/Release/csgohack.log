@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\progr\source\repos\csgohack\csgohack\Source.cpp(216): warning C4715: GetEntityByBase: значение возвращается не при всех путях выполнения
+C:\Users\progr\source\repos\csgohack\csgohack\Source.cpp(290): error C4703: используется потенциально неинициализированная локальная переменная-указатель "Player"
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: не удалось создать код
